@@ -1,2 +1,4 @@
 **Q1:** Explain Debouncing?
-<img width="756" alt="image" src="https://github.com/dbnaveen/JavaScript-Questions-2024/assets/15210898/3791579b-df1b-41e7-b6d8-3a0c9f577ff8">
+
+**Debouncing is a technique used to ensure that the function is executed once after a certain delay, even when it is called multiple times.
+Used for performance optimisation**
