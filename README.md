@@ -17,3 +17,17 @@ console.log('arr', arr.length) //3
 ```
 
 ###### It removes the element but leaves the empty slot in the array. If you want to remove the element and update its length, use methods like `splice`
+<img width="597" alt="image" src="https://github.com/dbnaveen/JavaScript-Questions-2024/assets/15210898/8bcfce18-7736-4718-8690-f31e93567eb9">
+
+##### Q4: Explain splice methods
+###### It is used to add, remove or replace items in an array
+```js
+const arr = [1, '2', 'hello']
+
+//@add 
+arr.splice(0, 0, 'world') //['world', 1, '2', 'hello']
+//@remove
+arr.splice(1, 2) //[1]
+//@replace
+arr.splice(2, 1, 'new') //[1, '2', 'new']
+```
