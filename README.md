@@ -31,3 +31,6 @@ arr.splice(1, 2) //[1]
 //@replace
 arr.splice(2, 1, 'new') //[1, '2', 'new']
 ```
+
+##### ![image](https://github.com/dbnaveen/JavaScript-Questions-2024/assets/15210898/c3d12343-6691-4e74-9e75-0c5377c4e497)
+
