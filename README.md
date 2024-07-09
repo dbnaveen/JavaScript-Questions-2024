@@ -8,3 +8,10 @@
 @Input- "is2 sentence4 This1 a3"
 @Output- "This is a sentence"
 ```
+
+#### Q3: What is the output of the code below
+```js
+const arr = [{}, '2', 'hello']
+delete arr[1]
+console.log('arr', arr.length)
+```
