@@ -33,6 +33,7 @@ arr.splice(2, 1, 'new') //[1, '2', 'new']
 ```
 
 ##### ![image](https://github.com/dbnaveen/JavaScript-Questions-2024/assets/15210898/6593e0bc-0433-49dc-90a0-db3e32fdbd27)
+##### ![image](https://github.com/dbnaveen/JavaScript-Questions-2024/assets/15210898/ddea4835-2e5f-404d-8cb9-285722f6cd13)
 ##### ![image](https://github.com/dbnaveen/JavaScript-Questions-2024/assets/15210898/5f8d8551-d22a-4da8-9365-47d419799a16)
 
 
