@@ -13,5 +13,7 @@
 ```js
 const arr = [{}, '2', 'hello']
 delete arr[1]
-console.log('arr', arr.length)
+console.log('arr', arr.length) //3
 ```
+
+###### It removes the element but leaves the empty slot in the array. If you want to remove the element and update its length, use methods like `splice`
