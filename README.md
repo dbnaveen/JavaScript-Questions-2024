@@ -32,7 +32,8 @@ arr.splice(1, 2) //[1]
 arr.splice(2, 1, 'new') //[1, '2', 'new']
 ```
 
-##### ![image](https://github.com/dbnaveen/JavaScript-Questions-2024/assets/15210898/5921e874-f1ba-4380-b21e-4fcfe20e4ed5)
+##### ![image](https://github.com/dbnaveen/JavaScript-Questions-2024/assets/15210898/6593e0bc-0433-49dc-90a0-db3e32fdbd27)
+
 
 
 
