@@ -9,7 +9,7 @@
 @Output- "This is a sentence"
 ```
 
-#### Q3: What is the output of the code below
+##### Q3: What is the output of the code below
 ```js
 const arr = [{}, '2', 'hello']
 delete arr[1]
