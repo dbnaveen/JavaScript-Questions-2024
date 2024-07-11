@@ -37,6 +37,8 @@ arr.splice(2, 1, 'new') //[1, '2', 'new']
 ##### ![image](https://github.com/dbnaveen/JavaScript-Questions-2024/assets/15210898/91372f5e-b749-4f21-9962-331180e3593d)
 ##### ![image](https://github.com/dbnaveen/JavaScript-Questions-2024/assets/15210898/106b0c58-7f47-43fa-af8a-faea21a2816a)
 ##### ![image](https://github.com/dbnaveen/JavaScript-Questions-2024/assets/15210898/5013a82a-8399-46a9-9760-cca14483ce43)[Link](https://codesandbox.io/p/sandbox/timer-pdghcl?file=%2Fsrc%2Findex.html)
+##### ![image](https://github.com/dbnaveen/JavaScript-Questions-2024/assets/15210898/8c2e5999-f340-4cc0-8bdf-c637d791d11c)
+
 
 
 
